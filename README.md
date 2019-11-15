@@ -1,7 +1,13 @@
 # Credit-Card-Fraud-Detection
 
-#Fraud = dataset[dataset['Class']==1]
-#Valid = dataset[dataset['Class']==0]
+# What Are Anomalies?
+# In data mining, anomaly detection (also outlier detection) is the identification of rare items, events or observations which behaves slighty different from other data(bad data).
+
+
+
+
+#Fraud = dataframe[dataframe['Class']==1]
+#Valid = dataframe[dataframe['Class']==0]
 
 #print("fraud cases:" ,format(len(Fraud)))
 #print("valid cases:" ,format(len(Valid)))
