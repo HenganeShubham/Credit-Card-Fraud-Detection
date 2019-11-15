@@ -1,9 +1,15 @@
 # Credit-Card-Fraud-Detection
 
+
+# The problem statement is to identify whether a new transaction is fraudulent or not.
+
+
 # What Are Anomalies?
 # In data mining, anomaly detection (also outlier detection) is the identification of rare items, events or observations which behaves slighty different from other data(bad data).
 
-
+# Isolation Forest Anomaly Detection Algorithm
+# Density-Based Anomaly Detection (Local Outlier Factor)Algorithm
+# Support Vector Machine Anomaly Detection Algorithm
 
 
 #Fraud = dataframe[dataframe['Class']==1]
