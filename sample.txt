@@ -1,0 +1,1 @@
+just to know about git merg command and git diff command.
